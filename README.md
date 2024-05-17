@@ -1,7 +1,9 @@
 # WENIVLOG  ->  https://aebonlee.github.io/weniv_blog/
 
 메뉴얼 페이지: https://blog.weniv.co.kr/
+
 fork할 깃헙 링크: https://github.com/weniv/weniv_blog
+
 GitHub 교안: https://weniv.link/6L-al8
 
 ## 프로젝트 소개
