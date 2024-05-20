@@ -1,10 +1,4 @@
-# WENIVLOG  ->  https://aebonlee.github.io/weniv_blog/
-
-메뉴얼 페이지: https://blog.weniv.co.kr/
-
-fork할 깃헙 링크: https://github.com/weniv/weniv_blog
-
-GitHub 교안: https://weniv.link/6L-al8
+# WENIVLOG https://kaiser6519.github.io/blog/
 
 ## 프로젝트 소개
 - GitHub Pages를 활용하여 블로그를 손쉽게 제작할 수 있는 서비스입니다.
@@ -17,6 +11,13 @@ GitHub 교안: https://weniv.link/6L-al8
 - 서비스 URL 정보
   - 매뉴얼 페이지: https://blog.weniv.co.kr/
   - 블로그 페이지(예시): https://weniv.github.io/weniv_blog/
+
+
+## 스폰서
+- 커피 한 잔 값으로 위니브의 활동을 지원하고 기여자로 참여하세요!
+
+[후원하기](https://github.com/sponsors/weniv?o=esb)
+
 
 ## 사용 가이드
 ### 블로그 개설
